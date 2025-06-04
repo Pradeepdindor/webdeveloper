@@ -1,2 +1,4 @@
-# webdeveloper
-My own portfolio website to showcase what I’ve been learning.
+# first_repo
+This is my first repo.
+<br>
+auther- Pradeep dindor
