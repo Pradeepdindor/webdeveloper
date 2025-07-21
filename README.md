@@ -2,4 +2,4 @@
 This is my first repo.
 <br>
 <hr>
-auther- Pradeep dindor
+auther- Pradeep (dindor)
